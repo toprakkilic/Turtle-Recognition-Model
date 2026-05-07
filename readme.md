@@ -68,6 +68,6 @@ python main.py
 
 ---
 
-**Geliştirici:** Abdullah Toprak Kılıç  
+**Geliştirici:** Toprak Kılıç  
 **Bölüm:** Pamukkale Üniversitesi - Bilgisayar Mühendisliği  
 **Tarih:** Mayıs 2026
